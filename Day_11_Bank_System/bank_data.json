@@ -1,0 +1,16 @@
+{
+    "ACC-20260305-5419": {
+        "owner": "Abhay",
+        "acc_number": "ACC-20260305-5419",
+        "pin": "1234",
+        "balance": 500.0,
+        "transactions": [
+            {
+                "type": "DEPOSIT",
+                "amount": 500.0,
+                "balance": 500.0,
+                "date": "2026-03-05 13:01"
+            }
+        ]
+    }
+}
