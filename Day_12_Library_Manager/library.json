@@ -1,0 +1,12 @@
+{
+    "BK20260305130507": {
+        "book_id": "BK20260305130507",
+        "title": "Abhay",
+        "author": "Abhay",
+        "genre": "Story",
+        "year": 2026,
+        "available": false,
+        "issued_to": "Prakash",
+        "issued_on": "2026-03-05"
+    }
+}
